@@ -1,0 +1,5 @@
+POSTMAN URL FOR REST API USING EXPRESS JS SEQUELIZE MYSQL DB 
+
+                     http://localhost:8080/api/
+                     
+MYSQL DB : restapi_db -> tables -> tutorials
